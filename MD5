@@ -1,7 +1,7 @@
-18cfd0a95caace8d010759b3ab680e13 *DESCRIPTION
+98c25015733b5296dd317142278dd160 *DESCRIPTION
 b6804095c7ff1c8bd61c773073d8329a *LICENSE
 824da2cbce5295f680ad87de002f6c43 *NAMESPACE
-7c57527fd07861fb323ff82996812774 *NEWS.md
+4e0a4cafedf879a122b1c247306dfb6f *NEWS.md
 8411c9d4681117337867c91d23263ed2 *R/addins.R
 1027f591db1f0edba95dc891bc59262c *R/announce.R
 c3f34341d815ea0ffccce247da1daefe *R/colors-okabeito.R
@@ -19,8 +19,8 @@ fbffe9be517fd4ad05dbdec5482c7b5d *R/rounding.R
 6620267445b07adaf5366185e228935a *R/wjake-package.R
 05dcfd680a5b2e9e89e8a84d2ec76772 *R/write-bib.R
 cdfcf9bc4d4e762742ae89ead3d7f3fb *R/zzz.R
-5f368614f2ee394cbda77dfc78358ab4 *README.md
-76e123f5dcc8dee07678412adc0a2a84 *build/partial.rdb
+fa65cca6655d18ba0aad64f719122a90 *README.md
+533839446f70bde34a1050627ce80586 *build/partial.rdb
 0f402a413fd3c85e9995bd7f629bd00e *inst/WORDLIST
 865b2ca262d669ae38d7d0d98321dc46 *man/announce.Rd
 b93527e2fb50c66cd29caff9eb7a0264 *man/apa_words.Rd
@@ -64,7 +64,7 @@ e9d4b0ab5d8925b6ad0cc894be9172cb *tests/testthat/_snaps/gt-theme-wjake.md
 892433eae8d2a01aeda9b7b02e032320 *tests/testthat/test-colors-okabeito.R
 ecddcb10a5be3040a68a2107cba9add7 *tests/testthat/test-colors-ramps.R
 f461fe8abc1edbd580e90ac59c4f032f *tests/testthat/test-colors-wjake.R
-1a8b64a3e448896bee8ed703415a54ce *tests/testthat/test-fmt-text.R
+d0d8881ab1b2f6544dc8f19ea8a86110 *tests/testthat/test-fmt-text.R
 f0c83564b5250c96324c4f25e14f8bb2 *tests/testthat/test-ggplot2-scale-palette.R
 4fe950fc893489b8ec35aee27af18989 *tests/testthat/test-ggplot2-scale-xy.R
 b92c61a5f62d1d361f30265241ea07ad *tests/testthat/test-ggplot2-theme-wjake.R
